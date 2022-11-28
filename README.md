@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sparkerpro
+- I'm a graduate student at Willamette University in Salem, OR, obtaining my Masters in Business Administration. I am tackling side-projects by learning R and intend to post the projects I am most proud of on this page. 
+- Credit for any success I may have should be attributed to my great teachers of life, business, and data science.
